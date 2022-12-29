@@ -1,3 +1,7 @@
-url: "https://pair-code.github.io"
-baseurl: "/datacardsplaybook"
+url: ""
+baseurl: ""
 title: "Data Cards Playbook"
+
+
+# sass:
+#   style: compact # possible values: nested expanded compact compressed
